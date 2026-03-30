@@ -1,1 +1,1 @@
-# Lab5_TypeScript_CRUD_API
+# TypeScript CRUD API with Node.js, Express & MySQL
